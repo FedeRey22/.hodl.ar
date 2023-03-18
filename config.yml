@@ -4,10 +4,12 @@ version: 0.3.0
 # HTML Head settings
 html:
   title: Fede Rey
-
+  
 # Main container settings
 main:
   title: Fede Rey
+  picture: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2a8b00c-9c44-4fd0-a7a8-aa2b2adf1cc5/d2nq5ar-c2d27281-c24a-40c1-914d-616d8d672bbd.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hMmE4YjAwYy05YzQ0LTRmZDAtYTdhOC1hYTJiMmFkZjFjYzUvZDJucTVhci1jMmQyNzI4MS1jMjRhLTQwYzEtOTE0ZC02MTZkOGQ2NzJiYmQuanBnIn1dXX0.YTKbIjxgvxaWvdnQ_vLLuE3Bd74fZVmiB4anonKftmo
+
 
 # Blocks list
 blocks:
